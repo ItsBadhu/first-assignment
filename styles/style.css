@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Work Sans';
+}
+.btn-primary{
+    color: #005FAC;
+    font-weight: 600;
+    font-size: 20px;
+    border-radius: 5px;
+    background: #fff;
+    border: 0;
+    padding-left: 26px;
+    padding-top: 21px;
+    padding-right: 25px;
+    padding-bottom: 20px;
+    width: 160px;
+    height: 64px;
+    left: 1210px;
+    top: 578px;
+}
+.hero-button{
+    padding-left: 700px;
+}
+.header{
+    width: 100%;
+    height: 100vh;
+    background-image: url(../images/banner/banner3.png);
+    background-position: center;
+    background-size: cover;
+}
+.hero-text{
+    padding-top: 216px;
+    padding-left: 845px;
+    margin-right: 230px;
+    color: #fff;
+}
+.hero-text h1{
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 76px;
+    text-align: right;
+}
+.hero-text p{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+    text-align: right;
+    margin-top: 24px;
+    margin-bottom: 32px;
+}
