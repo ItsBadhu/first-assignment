@@ -158,3 +158,75 @@
     top: 578px;
     margin-top: 30px;
 }
+.contact{
+    display: flex;
+    gap: 330px;
+    padding-left: 230px;
+    padding-right: 230px;
+    padding-bottom: 130px;
+    padding-top: 130px;
+    background: #151414;
+    color: #fff;
+}
+.contact-content h1{
+    padding-bottom: 16px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 53px;
+    color: #F8F8F8;
+}
+.contact-description{
+    padding-bottom: 24px;
+    line-height: 26px;
+    font-size: 18px;
+}
+.contact-mail-add{
+    padding-bottom: 20px;
+    height: 26px;
+}
+.contact-phn-num{
+    padding-bottom: 50px;
+    height: 26px;
+}
+.contact-subscription h1{
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 29px;
+    padding-bottom: 31px;
+}
+.social-links{
+    margin-right: 20px;
+}
+.fb-link{
+    padding-right: 16px;
+}
+.yt-link{
+    padding-left: 16px;
+}
+#email{
+    padding: 25px;
+    border: 1px solid #fff;
+    border-radius: 8px;
+    width: 325px;
+    height: 64px;
+    background-color: #151414;
+    color: #fff;
+}
+.subs-btn{
+    margin-top: 20px;
+    color: #fff;
+    font-weight: 600;
+    font-size: 20px;
+    border-radius: 5px;
+    background: #005FAC;
+    border: 0;
+    padding-left: 26px;
+    padding-top: 21px;
+    padding-right: 25px;
+    padding-bottom: 20px;
+    width: 160px;
+    height: 64px;
+    left: 1210px;
+    top: 578px;
+}
